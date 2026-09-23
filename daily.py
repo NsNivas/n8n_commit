@@ -1,4 +1,3 @@
-# Daily Coding Practice
 # Day 1
 
 name = "HAI"
